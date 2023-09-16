@@ -1,0 +1,4 @@
+﻿  vector_menual.cpp
+E:\github_Desktop\Vector_Practice\vector_menual\vector_menual\vector_menual.cpp(34,23): warning C4101: 'e': unreferenced local variable
+E:\github_Desktop\Vector_Practice\vector_menual\vector_menual\vector_menual.cpp(54,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\github_Desktop\Vector_Practice\vector_menual\vector_menual\vector_menual.cpp(117,19): error C2102: '&' requires l-value
